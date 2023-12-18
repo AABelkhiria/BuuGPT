@@ -1,9 +1,18 @@
 # BuuGPT
 
 ## Installation
+
+1. Clone the Repository
+
+First, clone the repository to your local machine using Git:
+
+```
+git clone git@github.com:AABelkhiria/BuuGPT.git
+```
+
 To set up the project, follow these steps:
 
-Run the bootstrap script to set up the environment:
+2. Run the bootstrap script to set up the environment:
 
 ```
 .\bootstrap.bat
